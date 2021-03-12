@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GWrench
 - 👀 I’m interested in technologies
 - 🌱 I’m currently learning user programms
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on interest projects
 - 📫 How to reach me ...
 
 <!---
