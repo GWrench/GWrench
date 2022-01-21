@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GWrench
+- 👋 Hi, I’m Vitali
 - 👀 I’m interested in technologies
 - 🌱 I’m currently learning user programms
 - 💞️ I’m looking to collaborate on interest projects
